@@ -1,0 +1,25 @@
+:root{
+    --color-primary:#FFF8F3;
+    --color-secondary:#FD6E0A;
+    --color-neutral:#FFFFFF;
+    --color-text-primary: #757575;
+    --color-text-secondary: #474747;
+    --color-text-neutral: #181818;
+    --fs-base:16px;
+    --fs-lg:18px;
+    --fs-xl:20px;
+    --fs-xxl:25px;
+    --fs-xxxl:30px;
+    --fs-xxxxl:35px;
+    --fs-xxxxxl:85px;
+
+}
+.developerpicture{
+background-color:var(--color-text-primary);
+padding: 20px;
+    }
+.banner{
+    
+    display: flex;
+}
+
